@@ -28,6 +28,7 @@ Curating the best open-source alternatives for famous apps.
 - [Quizlet](#quizlet)
 - [Salesforce](#salesforce)
 - [Segment](#segment)
+- [Sentry](#sentry)
 - [Shopify](#shopify)
 - [Slack](#slack)
 - [TeamViewer](#teamviewer)
@@ -170,6 +171,9 @@ Curating the best open-source alternatives for famous apps.
 
 ### [Segment](https://segment.com)
 - [Rudder](https://github.com/rudderlabs)
+
+### [Sentry](https://sentry.io/)
+- [Telemetry Tracker](https://github.com/Telemetry-Tracker/telemetry-tracker)
 
 ### [Shopify](https://shopify.com/)
 - [Reaction Commerce](https://github.com/reactioncommerce)
